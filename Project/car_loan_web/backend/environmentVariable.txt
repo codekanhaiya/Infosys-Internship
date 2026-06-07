@@ -1,0 +1,9 @@
+# https://platform.openai.com/api-keys
+# python -c "import secrets; print(secrets.token_urlsafe(64))"
+
+
+OPENAI_API_KEY=""
+TESSERACT_PATH="C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
+SECRET_KEY=""
+ACCESS_TOKEN_EXPIRE_MINUTES=120
+DATABASE_URL=AutoLexis.db
